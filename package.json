@@ -1,0 +1,27 @@
+{
+  "name": "image-classify",
+  "version": "1.0.0",
+  "description": "Classify image in words",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stenas/image-classify.git"
+  },
+  "author": "Ricardo Pina",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow-models/mobilenet": "^2.1.0",
+    "@tensorflow/tfjs-node": "^3.6.1",
+    "@tensorflow/tfjs-node-gpu": "^3.6.1",
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "pm2": "^4.5.6"
+  },
+  "bugs": {
+    "url": "https://github.com/stenas/image-classify/issues"
+  },
+  "homepage": "https://github.com/stenas/image-classify#readme"
+}

@@ -1,0 +1,11 @@
+version: '3.5'
+
+services:
+  image-classify-app:
+    build:
+      context: '.'
+      args:
+        uid: 3462346345
+    container_name: image-classify-app
+    ports:
+      - 8087:8087
