@@ -1,14 +1,14 @@
 {
-  "name": "image-classify",
+  "name": "images-ia",
   "version": "1.0.0",
-  "description": "Classify image in words",
+  "description": "Classify images",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stenas/image-classify.git"
+    "url": "git+https://github.com/stenas/images-ia.git"
   },
   "author": "Ricardo Pina",
   "license": "MIT",
@@ -22,7 +22,7 @@
     "nsfwjs": "^2.4.0"
   },
   "bugs": {
-    "url": "https://github.com/stenas/image-classify/issues"
+    "url": "https://github.com/stenas/images-ia/issues"
   },
-  "homepage": "https://github.com/stenas/image-classify#readme"
+  "homepage": "https://github.com/stenas/images-ia#readme"
 }
