@@ -1,4 +1,4 @@
-# images-ia
+# images-classify
 Service in Node JS to classify images
 ## Usage
 Build image, run container, show logs

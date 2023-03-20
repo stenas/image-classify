@@ -1,5 +1,5 @@
 {
-  "name": "images-ia",
+  "name": "images-classify",
   "version": "1.0.0",
   "description": "Classify images",
   "main": "app.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stenas/images-ia.git"
+    "url": "git+https://github.com/stenas/image-classify.git"
   },
   "author": "Ricardo Pina",
   "license": "MIT",
@@ -22,7 +22,7 @@
     "nsfwjs": "^2.4.0"
   },
   "bugs": {
-    "url": "https://github.com/stenas/images-ia/issues"
+    "url": "https://github.com/stenas/image-classify/issues"
   },
-  "homepage": "https://github.com/stenas/images-ia#readme"
+  "homepage": "https://github.com/stenas/image-classify#readme"
 }
